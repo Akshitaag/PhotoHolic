@@ -1,7 +1,7 @@
 # PhotoHolic-
 A mini-social networking , photo-posting site built using NodeJS and MySQL database. 
 
-A video demonstrating the app can be found [here](https://youtu.be/IGPC2egnrCg) (Preferably at 2X)
+A video demonstrating the app can be found [here](https://youtu.be/IGPC2egnrCg) (Watch preferably at 2X)
 
 # Features
 ```
